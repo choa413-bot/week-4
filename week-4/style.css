@@ -1,4 +1,6 @@
 body {
-  background-color: gainsboro;
+font-family: "Georgia", 'Times New Roman', "Times, serif";
+  background-color:antiquewhite;
   min-height: 100vh;
 }
+p{color: cadetblue;}
